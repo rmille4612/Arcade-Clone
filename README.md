@@ -3,9 +3,10 @@
 The Arcade Game Clone begins with a one player character at the bottom of a game screen.  The game screen is divided into three sections; grass, a roadway and water.  The player character can be moved one square at a time using the keyboard arrow keys.  The game is won when the character navigates across the game board to any of the water tiles.  Enemy characters are three insects which move along the roadway tiles from left to right.  Coming in contact with any of the bugs will cause the player character return to the original start position at the beginning of the game.
 
 
-## Requirements
+## Requirements and Installation
 
-In order to play the game you must have a web browser installed on your computer.
+In order to play the game you must have a web browser installed on your computer.  You must also dowload the index.html file along will all files in the css, js and images folders in the public github repository:  https://github.com/rmille4612/Arcade-Clone/
+All downloaded materials must be saved in the same file folder.  This can be the htdocs folder if using a web server allowing the game to be played by accessing htth://localhost in your web browser.  Otherwise open the folder containing all game files in Atom, Brackets or antoher code editor propety confiuged to run script.  Then access the game by running the script form the html page.  Enjoy!
 
 
 ## What to expect
