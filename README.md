@@ -4,9 +4,9 @@ The Arcade Game Clone begins with a one player character at the bottom of a game
 
 
 ## Requirements and Installation
-
-In order to play the game you must have a web browser installed on your computer.  You must also dowload the index.html file along will all files in the css, js and images folders in the public github repository:  https://github.com/rmille4612/Arcade-Clone/
-All downloaded materials must be saved in the same file folder.  This can be the htdocs folder if using a web server allowing the game to be played by accessing htth://localhost in your web browser.  Otherwise open the folder containing all game files in Atom, Brackets or antoher code editor propety confiuged to run script.  Then access the game by running the script form the html page.  Enjoy!
+  1.  In order to play the game you must have a web browser installed on your computer.
+  2.  Dowload or clone the complete reposity located at https://github.com/rmille4612/Arcade-Clone/
+  3.  Open the index.html file with your web browser.
 
 
 ## What to expect
